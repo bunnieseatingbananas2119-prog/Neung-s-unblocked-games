@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "category": "Puzzle",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "iframeUrl": "https://play2048.co/"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "category": "Arcade",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "iframeUrl": "https://tetris.com/play-tetris"
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "category": "Arcade",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html"
+  },
+  {
+    "id": "dino",
+    "title": "Chrome Dino",
+    "category": "Arcade",
+    "thumbnail": "https://picsum.photos/seed/dino/400/300",
+    "iframeUrl": "https://chromedino.com/"
+  },
+  {
+    "id": "flappy",
+    "title": "Flappy Bird",
+    "category": "Arcade",
+    "thumbnail": "https://picsum.photos/seed/flappy/400/300",
+    "iframeUrl": "https://flappybird.io/"
+  },
+  {
+    "id": "chess",
+    "title": "Chess",
+    "category": "Strategy",
+    "thumbnail": "https://picsum.photos/seed/chess/400/300",
+    "iframeUrl": "https://www.chess.com/play/computer"
+  }
+]
